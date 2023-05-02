@@ -17,7 +17,7 @@ while NumSamplesRemaining>0
         PreSamples(:,NdxNewSamples);
     NumSamplesRemaining=NumSamplesRemaining-NumNewSamples;
 end
-        
+
 % for Ndx=1:NumSamples
 %     Hecho=0;
 %     while Hecho==0
