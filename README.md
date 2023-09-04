@@ -1,6 +1,19 @@
 # Dynamic learning rates for continual unsupervised learning
 
-This is the source code used to get the results in the paper "Dynamic learning rates for continual unsupervised learning", acepted for publication in the journal "Integrated Computer-Aided Engineering".
+This is the source code used to get the results in the paper "Dynamic learning rates for continual unsupervised learning":
+
+```
+@article{fernandez2023dynamic,
+  title={Dynamic learning rates for continual unsupervised learning},
+  author={Fern{\'a}ndez-Rodr{\'\i}guez, Jos{\'e} David and Palomo, Esteban Jos{\'e} and Ortiz-de-Lazcano-Lobato, Juan Miguel and Ramos-Jim{\'e}nez, Gonzalo and L{\'o}pez-Rubio, Ezequiel},
+  journal={Integrated Computer-Aided Engineering},
+  volume={30},
+  number={3},
+  pages={257--273},
+  year={2023},
+  publisher={IOS Press}
+}
+```
 
 The code is written by Jose David Fernandez Rodriguez, building upon previous code for competitive clustering techniques (in a classic learning setting, i.e. before devising techniques for continual unsupervised learning) by Esteban Palomo Ferrer and Ezequiel Lopez Rubio.
 
